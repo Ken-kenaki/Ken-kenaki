@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Ken-kenaki
-- 👀 I’m interested in Web Development And coding
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+
 
 - Say Hii To Cutie Dark Knight
   [Check out my progress!](https://www.codedex.io/@laxman999music25663/30-nites-of-code)  
